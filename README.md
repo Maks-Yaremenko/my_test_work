@@ -6,6 +6,7 @@
 4. npm i
 
 Подготовка БД (MySQL), файл конфигурации лежит в server/config/config.json
+
 mysql> CREATE DATABASE `test_cleveroad` CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 5. cd server
