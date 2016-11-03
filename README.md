@@ -2,7 +2,7 @@
 
 1. npm i -g gulp sequelize-cli
 2. git clone https://github.com/Maks-Yaremenko/my_test_work.git
-3. cd simple_CRUD
+3. cd my_test_work
 4. npm i
 
 Подготовка БД (MySQL), файл конфигурации лежит в server/config/config.json
